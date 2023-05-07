@@ -8,17 +8,17 @@
 
 ## Conteúdo do Curso de Python
 
-**1. Vídeos no YouTube :film_strip:** [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/001_C%C3%B3digo_dos_V%C3%ADdeos) | [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#1-v%C3%ADdeos-no-youtube) | [Playlist YouTube]()
+**1. Vídeos no YouTube** :film_strip: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/001_C%C3%B3digo_dos_V%C3%ADdeos) | [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#1-v%C3%ADdeos-no-youtube) | [Playlist YouTube]()
 
-2. Exercícios Referentes aos Vídeos :brain: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/002_Exerc%C3%ADcios_Referente_aos_V%C3%ADdeos) | [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#2-exerc%C3%ADcios-referentes-aos-v%C3%ADdeos)
+**2. Exercícios Referentes aos Vídeos** :brain: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/002_Exerc%C3%ADcios_Referente_aos_V%C3%ADdeos) | [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#2-exerc%C3%ADcios-referentes-aos-v%C3%ADdeos)
 
-3. Projetos com Tutorial :technologist: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/003_C%C3%B3digo_dos_Projetos_com_Tutorial) | [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#3-projetos-com-tutorial)
+**3. Projetos com Tutorial** :technologist: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/003_C%C3%B3digo_dos_Projetos_com_Tutorial) | [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#3-projetos-com-tutorial)
 - Projeto 1
 - Projeto 2
 - Projeto 3
 - ...
 
-4. Desafios do Final do Curso :computer: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/004_Desafios_do_Final_do_Curso) | [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#4-desafios-do-final-do-curso)
+**4. Desafios do Final do Curso** :computer: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/004_Desafios_do_Final_do_Curso) | [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#4-desafios-do-final-do-curso)
 - Desafio 1
 - Desafio 2
 - Desafio 3
