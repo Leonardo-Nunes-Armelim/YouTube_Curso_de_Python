@@ -1,31 +1,5 @@
 # Curso de Python
 
-----------------------------------------------------------------------------------------------------
-
-# Título principal
-## Título secundário
-### Título terciário
-
-- Item 1
-- Item 2
-- Item 3
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-[GitHub](https://github.com/Leonardo-Nunes-Armelim)
-
-![User Photo](https://avatars.githubusercontent.com/u/57201164?v=4)
-
-**texto em negrito**
-*texto em itálico*
-
-> Code
-
-----------------------------------------------------------------------------------------------------
-
-
 ## Conteúdo do Curso de Python
 
     Corte do título no YouTybe Desktop
@@ -155,3 +129,33 @@ Manipulação de Excução: try, except, finally
 
 ### Curso Python 034 | Entradas do Usuário: input | Entrada (Input)
 Entradas do Usuário: input()
+
+
+
+----------------------------------------------------------------------------------------------------
+
+# Título principal
+## Título secundário
+### Título terciário
+
+- Item 1
+- Item 2
+- Item 3
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+[GitHub](https://github.com/Leonardo-Nunes-Armelim)
+
+![User Photo](https://avatars.githubusercontent.com/u/57201164?v=4)
+
+**texto em negrito**
+*texto em itálico*
+
+> Code
+
+    Conteúdo que pode ser copiado
+>    Conteúdo que pode ser copiado
+
+----------------------------------------------------------------------------------------------------
