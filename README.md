@@ -2,7 +2,7 @@
 
 ## Conteúdo do Curso de Python
 
-    Corte do título no YouTybe Desktop
+    Corte do título no YouTube Desktop
     |                            |                              |...
 ### Curso Python 001 | Dado Tipo Texto (String)
 
@@ -141,7 +141,8 @@ Manipulação de Excução: try, except, finally
 ### Curso Python 034 | Entradas do Usuário: input | Entrada (Input)
 Entradas do Usuário: input()
 
-
+### Curso Python 035 | Formatação de String: format | Formatar (Format)
+Formatação de String: format()
 
 ----------------------------------------------------------------------------------------------------
 
