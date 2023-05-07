@@ -8,7 +8,7 @@
 
 ## Conteúdo do Curso de Python
 
-**1. Vídeos no YouTube** :film_strip: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/001_C%C3%B3digo_dos_V%C3%ADdeos) | [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#1-v%C3%ADdeos-no-youtube) | [Playlist YouTube]()
+**1. Vídeos no YouTube** :film_strip: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/001_C%C3%B3digo_dos_V%C3%ADdeos) | [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#1-v%C3%ADdeos-no-youtube) | [Playlist YouTube](https://github.com/Leonardo-Nunes-Armelim)
 
 **2. Exercícios Referentes aos Vídeos** :brain: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/002_Exerc%C3%ADcios_Referente_aos_V%C3%ADdeos) | [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#2-exerc%C3%ADcios-referentes-aos-v%C3%ADdeos)
 
