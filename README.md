@@ -6,34 +6,39 @@
     |                            |                              |...
 ### Curso Python 001 | Dado Tipo Texto (String)
 
-**Vídeo Completo YouTube:** [YouTube: Curso Python 001 | Dado Tipo Texto (String)](https://github.com/Leonardo-Nunes-Armelim)&nbsp;
+**Vídeo Completo YouTube:** [YouTube: Curso Python 001 | Dado Tipo Texto (String)](https://github.com/Leonardo-Nunes-Armelim)
+
 Tipo Texto: str
 
 ### Curso Python 002 | Dados Tipo Numéricos (Integer, Float)
 
-**Vídeo Completo YouTube:**  [Curso Python 002 | Dados Tipo Numéricos (Integer, Float)](https://github.com/Leonardo-Nunes-Armelim)&nbsp;
+**Vídeo Completo YouTube:**  [Curso Python 002 | Dados Tipo Numéricos (Integer, Float)](https://github.com/Leonardo-Nunes-Armelim)
 
-**Tempo - Capitulo:** [00:00 - Integer](https://github.com/Leonardo-Nunes-Armelim) + &t=0s&nbsp;
-**Tempo - Capitulo:** [02:00 - Float](https://github.com/Leonardo-Nunes-Armelim) + &t=120s&nbsp;
-**Tempo - Capitulo:** [04:00 - Complex](https://github.com/Leonardo-Nunes-Armelim) + &t=240s&nbsp;
+- **Tempo - Capitulo:** [00:00 - Integer](https://github.com/Leonardo-Nunes-Armelim) + &t=0s
+- **Tempo - Capitulo:** [02:00 - Float](https://github.com/Leonardo-Nunes-Armelim) + &t=120s
+- **Tempo - Capitulo:** [04:00 - Complex](https://github.com/Leonardo-Nunes-Armelim) + &t=240s
+
 Tipos Numéricos: int, float, complex
 
 ### Curso Python 003 | Dados Tipo Sequênciais (List, Tuple, Range)
 
-**Vídeo Completo YouTube:** [YouTube: Curso Python 003 | Dados Tipo Sequênciais (List, Tuple, Range)](https://github.com/Leonardo-Nunes-Armelim)&nbsp;
+**Vídeo Completo YouTube:** [YouTube: Curso Python 003 | Dados Tipo Sequênciais (List, Tuple, Range)](https://github.com/Leonardo-Nunes-Armelim)
 
-**Tempo - Capitulo:** [00:00 - List](https://github.com/Leonardo-Nunes-Armelim) + &t=0s&nbsp;
-**Tempo - Capitulo:** [02:00 - Tupla](https://github.com/Leonardo-Nunes-Armelim) + &t=120s&nbsp;
-**Tempo - Capitulo:** [04:00 - Range](https://github.com/Leonardo-Nunes-Armelim) + &t=240s&nbsp;
+- **Tempo - Capitulo:** [00:00 - List](https://github.com/Leonardo-Nunes-Armelim) + &t=0s
+- **Tempo - Capitulo:** [02:00 - Tupla](https://github.com/Leonardo-Nunes-Armelim) + &t=120s
+- **Tempo - Capitulo:** [04:00 - Range](https://github.com/Leonardo-Nunes-Armelim) + &t=240s
+
 Tipos de Sequência: list, tuple, range
 
 ### Curso Python 004 | Dado Tipo Mapeamento (Dictionary)
 
-**Vídeo Completo YouTube:** [YouTube: Curso Python 004 | Dado Tipo Mapeamento (Dictionary)](https://github.com/Leonardo-Nunes-Armelim)&nbsp;
+**Vídeo Completo YouTube:** [YouTube: Curso Python 004 | Dado Tipo Mapeamento (Dictionary)](https://github.com/Leonardo-Nunes-Armelim)
+
 Tipo de Mapeamento: dict
 
 ### Curso Python 005 | Dados Tipo Conjunto (set, frozenset)
-Pesquisar&nbsp;
+Pesquisar
+
 Tipos de Conjunto: set, frozenset
 
 ### Curso Python 006 | Dado Tipo Booleano (Bool)
@@ -79,23 +84,27 @@ Função: def
 Função Lambda: lambda
 
 ### Curso Python 020 |
-Estudar Mais&nbsp;
+Estudar Mais
 Classes e Objetos - Programação Orientada a Objetos (POO)
 
 ### Curso Python 021 |
-Estudar Mais&nbsp;
+Estudar Mais
+
 Heranças: __init__ (Classe Pai & Classe Filho)
 
 ### Curso Python 022 |
-Pesquisar&nbsp;
+Pesquisar
+
 Interadores: inter()
 
 ### Curso Python 023 |
-Pesquisar&nbsp;
+Pesquisar
+
 Polimorfismos
 
 ### Curso Python 024 |
-Pesquisar&nbsp;
+Pesquisar
+
 Escopos
 
 ### Curso Python 025 | Módulo: datetime | Data hora (Datetime)
@@ -117,11 +126,13 @@ Módulo: time - Time ou tempo
 Módulo: os - Operating System ou Sistema Operacional (OS)
 
 ### Curso Python 031 | Módulos Customizados
-Pesquisar&nbsp;
+Pesquisar
+
 Módulos Customizados
 
 ### Curso Python 032 | PIP
-Pesquisar Coisas Extras para Ensinar&nbsp;
+Pesquisar Coisas Extras para Ensinar
+
 Python PIP
 
 ### Curso Python 033 | Manipulação de Excução: try, except, finally
