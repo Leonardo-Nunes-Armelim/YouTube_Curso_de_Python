@@ -1,6 +1,6 @@
-# Curso de Python
+# Curso de Python :snake: :brazil:
 
-## Descrição
+## Descrição :page_facing_up: :memo:
 
 ... :fist_right::fist_left:
 
@@ -8,19 +8,19 @@
 
 ## Conteúdo do Curso de Python
 
-1. Vídeos no YouTube
+1. Vídeos no YouTube :film_strip:
 - [Vídeos no YouTube](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python)
 
-2. Exercícios Referentes aos Vídeos
+2. Exercícios Referentes aos Vídeos :brain:
 - [Exercícios](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python)
 
-3. Projetos com Tutorial
+3. Projetos com Tutorial :technologist:
 - Projeto 1
 - Projeto 2
 - Projeto 3
 - ...
 
-4. Desafios do Final do Curso
+4. Desafios do Final do Curso :computer:
 - Desafio 1
 - Desafio 2
 - Desafio 3
