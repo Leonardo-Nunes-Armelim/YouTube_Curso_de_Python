@@ -50,8 +50,22 @@ Tipos Binários: bytes, bytearray, memoryview
 ### Curso Python 008 | Dado Tipo Nenhum (None ou NoneType)
 Nenhum Tipo: NoneType
 
-### Curso Python 009 |
-Operadores: + - / * ** %
+### Curso Python 009 | Operadores (+, -, /, *, **, ^, %)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 003 | Dados Tipo Sequênciais (List, Tuple, Range)](https://github.com/Leonardo-Nunes-Armelim)
+
+- **Tempo - Capitulo:** [00:00 - Soma (+)](https://github.com/Leonardo-Nunes-Armelim) + &t=0s
+- **Tempo - Capitulo:** [01:00 - Subtração (-)](https://github.com/Leonardo-Nunes-Armelim) + &t=60s
+- **Tempo - Capitulo:** [02:00 - Divisão (/)](https://github.com/Leonardo-Nunes-Armelim) + &t=120s
+- **Tempo - Capitulo:** [03:00 - Multiplicação (*)](https://github.com/Leonardo-Nunes-Armelim) + &t=180s
+- **Tempo - Capitulo:** [04:00 - Exponencial (**)](https://github.com/Leonardo-Nunes-Armelim) + &t=240s
+- **Tempo - Capitulo:** [04:30 - Raiz Quadrada (X**(1/2))](https://github.com/Leonardo-Nunes-Armelim) + &t=270s
+- **Tempo - Capitulo:** [04:50 - Raiz Cúbica (X**(1/3))](https://github.com/Leonardo-Nunes-Armelim) + &t=290s
+- **Tempo - Capitulo:** [05:00 - (^)](https://github.com/Leonardo-Nunes-Armelim) + &t=300s
+- **Tempo - Capitulo:** [06:00 - Quociente (//)](https://github.com/Leonardo-Nunes-Armelim) + &t=360s
+- **Tempo - Capitulo:** [07:00 - Resto (%)](https://github.com/Leonardo-Nunes-Armelim) + &t=420s
+- **Tempo - Capitulo:** [08:00 - ...()](https://github.com/Leonardo-Nunes-Armelim) + &t=480s
+
+Operadores: +, -, /, *, **, ^, //, %
 
 ### Curso Python 010 |
 Comparadores: > < >= <= == != not in
