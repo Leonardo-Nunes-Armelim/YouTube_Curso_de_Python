@@ -5,31 +5,31 @@
     Corte do título no YouTybe Desktop
     |                            |                              |...
 ### Curso Python 001 | Dado Tipo Texto (String)
-[YouTube: Curso Python 001 | Dado Tipo Texto (String)](https://github.com/Leonardo-Nunes-Armelim)
+
+**Vídeo Completo YouTube:** [YouTube: Curso Python 001 | Dado Tipo Texto (String)](https://github.com/Leonardo-Nunes-Armelim)
 Tipo Texto: str
 
 ### Curso Python 002 | Dados Tipo Numéricos (Integer, Float)
-**Vídeo Completo**
-- [YouTube: Curso Python 002 | Dados Tipo Numéricos (Integer, Float)](https://github.com/Leonardo-Nunes-Armelim)
-**Capitulos Vídeo**
-- [00:00 - Integer](https://github.com/Leonardo-Nunes-Armelim) + &t=0s
-- [02:00 - Float](https://github.com/Leonardo-Nunes-Armelim) + &t=120s
-- [04:00 - Complex](https://github.com/Leonardo-Nunes-Armelim) + &t=240s
 
+**Vídeo Completo YouTube:**  [Curso Python 002 | Dados Tipo Numéricos (Integer, Float)](https://github.com/Leonardo-Nunes-Armelim)
+
+**Tempo - Capitulo:** [00:00 - Integer](https://github.com/Leonardo-Nunes-Armelim) + &t=0s
+**Tempo - Capitulo:** [02:00 - Float](https://github.com/Leonardo-Nunes-Armelim) + &t=120s
+**Tempo - Capitulo:** [04:00 - Complex](https://github.com/Leonardo-Nunes-Armelim) + &t=240s
 Tipos Numéricos: int, float, complex
 
 ### Curso Python 003 | Dados Tipo Sequênciais (List, Tuple, Range)
+
+**Vídeo Completo YouTube:** [YouTube: Curso Python 003 | Dados Tipo Sequênciais (List, Tuple, Range)](https://github.com/Leonardo-Nunes-Armelim)
+
+**Tempo - Capitulo:** [00:00 - List](https://github.com/Leonardo-Nunes-Armelim) + &t=0s
+**Tempo - Capitulo:** [02:00 - Tupla](https://github.com/Leonardo-Nunes-Armelim) + &t=120s
+**Tempo - Capitulo:** [04:00 - Range](https://github.com/Leonardo-Nunes-Armelim) + &t=240s
 Tipos de Sequência: list, tuple, range
-**Vídeo Completo**
-- [YouTube: Curso Python 003 | Dados Tipo Sequênciais (List, Tuple, Range)](https://github.com/Leonardo-Nunes-Armelim)
-**Capitulos Vídeo**
-- [00:00 - List](https://github.com/Leonardo-Nunes-Armelim) + &t=0s
-- [02:00 - Tupla](https://github.com/Leonardo-Nunes-Armelim) + &t=120s
-- [04:00 - Range](https://github.com/Leonardo-Nunes-Armelim) + &t=240s
 
 ### Curso Python 004 | Dado Tipo Mapeamento (Dictionary)
-**Vídeo Completo**
-- [YouTube: Curso Python 004 | Dado Tipo Mapeamento (Dictionary)](https://github.com/Leonardo-Nunes-Armelim)
+
+**Vídeo Completo YouTube:** [YouTube: Curso Python 004 | Dado Tipo Mapeamento (Dictionary)](https://github.com/Leonardo-Nunes-Armelim)
 Tipo de Mapeamento: dict
 
 ### Curso Python 005 | Dados Tipo Conjunto (set, frozenset)
@@ -156,6 +156,5 @@ Entradas do Usuário: input()
 > Code
 
     Conteúdo que pode ser copiado
->    Conteúdo que pode ser copiado
 
 ----------------------------------------------------------------------------------------------------
