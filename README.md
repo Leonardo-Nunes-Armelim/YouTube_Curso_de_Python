@@ -1,27 +1,27 @@
 # Curso de Python :snake: :brazil:
+:star: [Dar uma Estrela Para o Projeto](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/stargazers) :thumbsup:
 
 ## Descrição :memo:
 
 ... :fist_right::fist_left:
 
-:star: [Dar uma Estrela Para o Projeto](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/stargazers) :thumbsup:
-
 ## Conteúdo do Curso de Python
 
-**1. :film_strip: Vídeos no YouTube** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/001_C%C3%B3digo_dos_V%C3%ADdeos) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#1-v%C3%ADdeos-no-youtube) | :arrow_forward: [Playlist YouTube](https://github.com/Leonardo-Nunes-Armelim)
+**1. :film_strip: Vídeos no YouTube** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/1_C%C3%B3digo_dos_V%C3%ADdeos) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#1-v%C3%ADdeos-no-youtube) | :arrow_forward: [Playlist YouTube](https://github.com/Leonardo-Nunes-Armelim)
 
-**2. :brain: Exercícios Referentes aos Vídeos** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/002_Exerc%C3%ADcios_Referente_aos_V%C3%ADdeos) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#2-exerc%C3%ADcios-referentes-aos-v%C3%ADdeos)
+**2. :brain: Exercícios Referentes aos Vídeos** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/2_Exerc%C3%ADcios_Referente_aos_V%C3%ADdeos) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#2-exerc%C3%ADcios-referentes-aos-v%C3%ADdeos)
 
-**3. :man_teacher: Projetos com Tutorial** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/003_C%C3%B3digo_dos_Projetos_com_Tutorial) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#3-projetos-com-tutorial)
+**3. :man_teacher: Projetos com Tutorial** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/3_C%C3%B3digo_dos_Projetos_com_Tutorial) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#3-projetos-com-tutorial)
 - Projeto 1
 - Projeto 2
 - Projeto 3
 - ...
 
-**4. :computer: Desafios do Final do Curso** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/004_Desafios_do_Final_do_Curso) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#4-desafios-do-final-do-curso)
+**4. :computer: Desafios do Final do Curso** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/4_Desafios_do_Final_do_Curso) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#4-desafios-do-final-do-curso)
 - Desafio 1
 - Desafio 2
 - Desafio 3
+- ...
 
 ## 1. Vídeos no YouTube
 
