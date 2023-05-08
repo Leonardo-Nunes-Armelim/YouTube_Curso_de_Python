@@ -179,111 +179,86 @@ Listar todos os métodos e propriedades de Conjuntos
 Listar todos os métodos e propriedades de 
 
 ### Curso Python 020 | Função Customizada (def)
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 020 | Função Customizada (def)](https://github.com/Leonardo-Nunes-Armelim)
 
 - **Tempo - Capitulo:** [00:00 - ](https://github.com/Leonardo-Nunes-Armelim) + &t=0s
 
 Pensar em capitulos (se couber dentro do assunto)
 
 ### Curso Python 021 | Função Lambda (lambda)
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 021 | Função Lambda (lambda)](https://github.com/Leonardo-Nunes-Armelim)
 
 - **Tempo - Capitulo:** [00:00 - ](https://github.com/Leonardo-Nunes-Armelim) + &t=0s
 
 Pensar em capitulos (se couber dentro do assunto)
 
-### Curso Python 022 |
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+### Curso Python 022 | Classes e Objetos (class, self)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 022 | Classes e Objetos (class, self)](https://github.com/Leonardo-Nunes-Armelim)
 
-Estudar Mais
-Classes e Objetos - Programação Orientada a Objetos (POO)
+Estudar mais: Classes e Objetos - Programação Orientada a Objetos (POO)
 
-### Curso Python 023 |
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+### Curso Python 023 | Heranças (parente, child)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 023 | Heranças (parente, child)](https://github.com/Leonardo-Nunes-Armelim)
 
-Estudar Mais
+Estudar mais: Heranças __init__ (Classe Pai & Classe Filho)
 
-Heranças: __init__ (Classe Pai & Classe Filho)
+### Curso Python 024 | Interadores (inter)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 024 | Interadores (inter)](https://github.com/Leonardo-Nunes-Armelim)
 
-### Curso Python 022 |
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+Pesquisar: Interadores: inter()
 
-Pesquisar
+### Curso Python 025 | Polimorfismos
+**Vídeo Completo YouTube:** [YouTube: Curso Python 025 | Polimorfismos](https://github.com/Leonardo-Nunes-Armelim)
 
-Interadores: inter()
+Pesquisar: Polimorfismos
 
-### Curso Python 023 |
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+### Curso Python 026 | Escopos
+**Vídeo Completo YouTube:** [YouTube: Curso Python 026 | Escopos](https://github.com/Leonardo-Nunes-Armelim)
 
-Pesquisar
+Pesquisar: Escopos
 
-Polimorfismos
+### Curso Python 027 | Módulo: datetime | Data hora (Datetime)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 027 | Módulo: datetime | Data hora (Datetime)](https://github.com/Leonardo-Nunes-Armelim)
 
-### Curso Python 024 |
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+### Curso Python 028 | Módulo: math | Matemática (Math)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 028 | Módulo: math | Matemática (Math)](https://github.com/Leonardo-Nunes-Armelim)
 
-Pesquisar
+### Curso Python 029 | Módulo: json | Notação de Objeto JavaScript (JSON)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 029 | Módulo: json | Notação de Objeto JavaScript (JSON)](https://github.com/Leonardo-Nunes-Armelim)
 
-Escopos
+JavaScript Object Notation ou Notação de Objeto JavaScript (JSON)
 
-### Curso Python 025 | Módulo: datetime | Data hora (Datetime)
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+### Curso Python 030 | Módulo: re | Expreções Regulares (RegEx)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 030 | Módulo: re | Expreções Regulares (RegEx)](https://github.com/Leonardo-Nunes-Armelim)
 
-Módulo: datetime - Datetime
+Regular Expression ou Expreções Regulares (RegEx)
 
-### Curso Python 026 | Módulo: math | Matemática (Math)
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+### Curso Python 031 | Módulo: time | Tempo (Time)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 031 | Módulo: time | Tempo (Time)](https://github.com/Leonardo-Nunes-Armelim)
 
-Módulo: math - Math
+### Curso Python 032 | Módulo: os | Sistema Operacional (OS)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 032 | Módulo: os | Sistema Operacional (OS)](https://github.com/Leonardo-Nunes-Armelim)
 
-### Curso Python 027 | Módulo: json | Notação de Objeto JavaScript (JSON)
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+Operating System ou Sistema Operacional (OS)
 
-Módulo: json - JavaScript Object Notation ou Notação de Objeto JavaScript (JSON)
+### Curso Python 033 | Módulos Customizados
+**Vídeo Completo YouTube:** [YouTube: Curso Python 033 | Módulos Customizados](https://github.com/Leonardo-Nunes-Armelim)
 
-### Curso Python 028 | Módulo: re | Expreções Regulares (RegEx)
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+Pesquisar: Módulos Customizados
 
-Módulo: re - Regular Expression ou Expreções Regulares (RegEx)
+### Curso Python 034 | PIP
+**Vídeo Completo YouTube:** [YouTube: Curso Python 034 | PIP](https://github.com/Leonardo-Nunes-Armelim)
 
-### Curso Python 029 | Módulo: time
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+Pesquisar Coisas Extras para Ensinar (Python PIP)
 
-Módulo: time - Time ou tempo
+### Curso Python 035 | Manipulação de Excução: try, except, finally
+**Vídeo Completo YouTube:** [YouTube: Curso Python 035 | Manipulação de Excução: try, except, finally](https://github.com/Leonardo-Nunes-Armelim)
 
-### Curso Python 030 | Módulo: os | Sistema Operacional (OS)
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+### Curso Python 036 | Entradas do Usuário: input | Entrada (Input)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 036 | Entradas do Usuário: input | Entrada (Input)](https://github.com/Leonardo-Nunes-Armelim)
 
-Módulo: os - Operating System ou Sistema Operacional (OS)
-
-### Curso Python 031 | Módulos Customizados
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
-
-Pesquisar
-
-Módulos Customizados
-
-### Curso Python 032 | PIP
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
-
-Pesquisar Coisas Extras para Ensinar
-
-Python PIP
-
-### Curso Python 033 | Manipulação de Excução: try, except, finally
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
-
-Manipulação de Excução: try, except, finally
-
-### Curso Python 034 | Entradas do Usuário: input | Entrada (Input)
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
-
-Entradas do Usuário: input()
-
-### Curso Python 035 | Formatação de String: format | Formatar (Format)
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
-
-Formatação de String: format()
+### Curso Python 037 | Formatação de String: format | Formatar (Format)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 037 | Formatação de String: format | Formatar (Format)](https://github.com/Leonardo-Nunes-Armelim)
 
 ## 2. Exercícios Referentes aos Vídeos
 
