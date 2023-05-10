@@ -65,7 +65,7 @@ Pesquisar
 - **Tempo - Capitulo:** [00:00 - Memoryview](https://github.com/Leonardo-Nunes-Armelim) + &t=0s
 
 ### Curso Python 008 | Dado Tipo Nenhum (None ou NoneType)
-**Vídeo Completo YouTube:** [YouTube: ](https://github.com/Leonardo-Nunes-Armelim)
+**Vídeo Completo YouTube:** [YouTube: Curso Python 008 | Dado Tipo Nenhum (None ou NoneType)](https://github.com/Leonardo-Nunes-Armelim)
 
 ### Curso Python 009 | Operadores Aritméticos (+, -, *, /, %, //, **, raiz) + Atribuições
 **Vídeo Completo YouTube:** [YouTube: Curso Python 009 | Operadores Aritméticos (+, -, *, /, %, //, **, raiz) + Atribuições](https://github.com/Leonardo-Nunes-Armelim)
