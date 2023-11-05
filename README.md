@@ -9,9 +9,6 @@
 
 **1. :film_strip: Vídeos no YouTube** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/1_C%C3%B3digo_dos_V%C3%ADdeos) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#1-v%C3%ADdeos-no-youtube) | :arrow_forward: [Playlist YouTube](https://github.com/Leonardo-Nunes-Armelim)
 
-    Corte do título no YouTube Desktop
-    |                            |                              |...
-
 ## 1. Vídeos no YouTube
 
 ### Curso Python 001 | Dado Tipo Texto (String)
