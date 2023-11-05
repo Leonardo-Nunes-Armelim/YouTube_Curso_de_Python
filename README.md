@@ -9,12 +9,6 @@
 
 **1. :film_strip: Vídeos no YouTube** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/1_C%C3%B3digo_dos_V%C3%ADdeos) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#1-v%C3%ADdeos-no-youtube) | :arrow_forward: [Playlist YouTube](https://github.com/Leonardo-Nunes-Armelim)
 
-**2. :brain: Exercícios Referentes aos Vídeos** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/2_Exerc%C3%ADcios_Referente_aos_V%C3%ADdeos) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#2-exerc%C3%ADcios-referentes-aos-v%C3%ADdeos) | :arrow_forward: [Playlist Exercícios YouTube](https://github.com/Leonardo-Nunes-Armelim)
-
-**3. :man_teacher: Projetos com Tutorial** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/3_C%C3%B3digo_dos_Projetos_com_Tutorial) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#3-projetos-com-tutorial) | :arrow_forward: [Playlist Projetos YouTube](https://github.com/Leonardo-Nunes-Armelim)
-
-**4. :computer: Desafios do Final do Curso** :open_file_folder: [Pasta](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python/tree/main/4_Desafios_do_Final_do_Curso) | :bookmark_tabs: [README](https://github.com/Leonardo-Nunes-Armelim/Curso_de_Python#4-desafios-do-final-do-curso) | :arrow_forward: [Playlist Desafios YouTube](https://github.com/Leonardo-Nunes-Armelim)
-
     Corte do título no YouTube Desktop
     |                            |                              |...
 
@@ -252,54 +246,3 @@ Pesquisar Coisas Extras para Ensinar (Python PIP)
 
 ### Curso Python 037 | Formatação de String: format | Formatar (Format)
 **Vídeo Completo YouTube:** [YouTube: Curso Python 037 | Formatação de String: format | Formatar (Format)](https://github.com/Leonardo-Nunes-Armelim)
-
-## 2. Exercícios Referentes aos Vídeos
-
-### Descrição 001
-
-### Descrição 002
-
-### Descrição 003
-
-## 3. Projetos com Tutorial
-
-### Descrição Projeto 1
-
-### Descrição Projeto 2
-
-### Descrição Projeto 3
-
-## 4. Desafios do Final do Curso
-
-### Descrição Desafio 1
-
-### Descrição Desafio 2
-
-### Descrição Desafio 3
-
-----------------------------------------------------------------------------------------------------
-
-# Título principal
-## Título secundário
-### Título terciário
-
-- Item 1
-- Item 2
-- Item 3
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-[GitHub](https://github.com/Leonardo-Nunes-Armelim)
-
-![User Photo](https://avatars.githubusercontent.com/u/57201164?v=4)
-
-**texto em negrito**
-*texto em itálico*
-
-> Code
-
-    Conteúdo que pode ser copiado
-
-----------------------------------------------------------------------------------------------------
